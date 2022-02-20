@@ -1,5 +1,7 @@
 # NFT Name Lists for bot command
 
+Telegram Bot: https://t.me/eocommunity_bot
+
 Command : /nft nft-name
 
 `
